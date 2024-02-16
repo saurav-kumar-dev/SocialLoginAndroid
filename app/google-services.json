@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227434392653",
+    "project_id": "sociallogin-eb314",
+    "storage_bucket": "sociallogin-eb314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227434392653:android:6c6b1878cd010056e80004",
+        "android_client_info": {
+          "package_name": "com.codingwithsaurav.sociallogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YVUqztYYpfL4adA-L_vp7VeYTd2jRXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
