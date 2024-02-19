@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="images"
+        path="Pictures"/>
+
+    <external-media-path
+        name="images"
+        path="Pictures"/>
+
+    <files-path
+        name="photo"
+        path="."/>
+
+    <files-path
+        name="photo"
+        path="."/>
+
+</paths>
