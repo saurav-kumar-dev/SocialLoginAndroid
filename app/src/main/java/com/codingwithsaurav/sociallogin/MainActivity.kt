@@ -67,6 +67,9 @@ class MainActivity : AppCompatActivity() {
             auth.signOut()
             initializeFaceBookLogin()
         }
+        binding?.joinMeetingTextView?.setOnClickListener {
+            startActivity(Intent(this, ZoomMeetingActivity::class.java))
+        }
         binding?.googleLoginTextView?.setOnClickListener {
             lifecycleScope.launch {
                 googleAuthUiClient.signOut()
